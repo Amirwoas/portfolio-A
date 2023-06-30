@@ -24,7 +24,7 @@ const Navbar = () => {
       >
         <div className="w-full relative h-full flex items-center justify-between md:px-14 px-8 pl-5">
           {/* logo */}
-          <span className='flex items-center justify-center w-24'>
+          <span className='flex items-center justify-center w-32'>
             <img className='w-full' src="https://s8.uupload.ir/files/shared_image_i4s7.png" alt="logo" />
           </span>
           {/* menu svg */}
