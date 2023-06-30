@@ -17,7 +17,7 @@ const Footer = () => {
             {/* mail */}
             <span className='cursor-pointer sm:p-2 '>
                             {/* add link here */}
-            <a className='w-full h-full' href="#" target='_blank'>
+            <a className='w-full h-full' href="mailto:sinab.work@gmail.com" target='_blank'>
               <svg
                 className="text-gray-400 hover:text-white opacity-[0.55] hover:opacity-90 duration-200"
                 width="48"
