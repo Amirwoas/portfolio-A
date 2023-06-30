@@ -15,7 +15,6 @@ const Navbar = () => {
     }
   }
   window.addEventListener('scroll', changeColorNav);
-
   return (
     <>
       <div
